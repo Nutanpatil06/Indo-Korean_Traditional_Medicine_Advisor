@@ -98,8 +98,6 @@ In simple terms, the app allows users to:
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
 ### 🏠 Home Page
 <img src="screenshots/Home.png" width="800"/>
 ![Home Page](screenshots/Home.png)
@@ -119,6 +117,8 @@ In simple terms, the app allows users to:
 ### 🌿 Seasonal Wellness
 <img src="screenshots/Seasons.png" width="800"/>
 ![Seasonal Wellness](screenshots/Seasons.png)
+
+---
 
 ##How to Run the Project
 #Clone the repository
