@@ -34,7 +34,7 @@ Click below to watch the full working demo of the project:
 
 <p align="center">
   <a href="https://youtu.be/rHG0oJ_m8ag">
-    <img src="https://img.youtube.com/vi/rHG0oJ_m8ag/0.jpg" width="600"/>
+    <img src="https://img.youtube.com/vi/rHG0oJ_m8ag/0.jpg" width="600" height="450"/>
   </a>
 </p>
 
