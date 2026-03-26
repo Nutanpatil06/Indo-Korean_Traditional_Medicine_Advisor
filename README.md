@@ -34,6 +34,7 @@ Click below to watch the full working demo of the project:
 
 <p align="center">
   <a href="./indo-korean-project-video.mp4">
+    <img src="screenshots/Home.png" width="600"/>
   </a>
 </p>
 
