@@ -34,7 +34,7 @@ Click below to watch the full working demo of the project:
 
 <p align="center">
   <a href="https://youtu.be/rHG0oJ_m8ag">
-    ▶️ Click here to watch the demo video
+    <img src="https://img.youtube.com/vi/rHG0oJ_m8ag/0.jpg" width="600"/>
   </a>
 </p>
 
@@ -139,16 +139,16 @@ In simple terms, the app allows users to:
 ---
 
 ## How to Run the Project
-# Clone the repository
+#Clone the repository
 git clone <your-repo-url>
 
 #Go to project folder
 cd indo-korean-medicine-advisor
 
-# Install dependencies
+#Install dependencies
 npm install
 
-# Start development server
+#Start development server
 npm run dev
 
 Then open:
