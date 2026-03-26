@@ -17,6 +17,28 @@ It bridges **ancient healing knowledge** with **modern AI and web technology** s
 
 ---
 
+## 🚀 Live Demo & Access
+
+### 📱 Try the App (Scan QR Code)
+Scan the QR code below to access the application code and documentation:
+
+<p align="center">
+  <img src="./qr-code.png" width="200"/>
+</p>
+
+---
+
+### 🎥 Watch Demo Video
+
+Click below to watch the full working demo of the project:
+
+<p align="center">
+  <a href="https://indo-korean-project-video.mp4">
+  </a>
+</p>
+
+---
+
 ## 🎯 Why I Built This Project
 
 Traditional medicine is widely used, but:
@@ -100,37 +122,32 @@ In simple terms, the app allows users to:
 
 ### 🏠 Home Page
 <img src="screenshots/Home.png" width="800"/>
-![Home Page](screenshots/Home.png)
 
 ### 🩺 Symptom Tracker
 <img src="screenshots/Symptoms.png" width="800"/>
-![Symptom Tracker](screenshots/Symptoms.png)
 
 ### 🤖 AI Recommendations
 <img src="screenshots/Recommendations.png" width="800"/>
-![AI Recommendations](screenshots/Recommendations.png)
 
 ### ✨ Features Overview
 <img src="screenshots/Features.png" width="800"/>
-![Features](screenshots/Features.png)
 
 ### 🌿 Seasonal Wellness
 <img src="screenshots/Seasons.png" width="800"/>
-![Seasonal Wellness](screenshots/Seasons.png)
 
 ---
 
-##How to Run the Project
-#Clone the repository
+## How to Run the Project
+# Clone the repository
 git clone <your-repo-url>
 
 #Go to project folder
 cd indo-korean-medicine-advisor
 
-#Install dependencies
+# Install dependencies
 npm install
 
-#Start development server
+# Start development server
 npm run dev
 
 Then open:
