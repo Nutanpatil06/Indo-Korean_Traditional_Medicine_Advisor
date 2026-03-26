@@ -23,7 +23,7 @@ It bridges **ancient healing knowledge** with **modern AI and web technology** s
 Scan the QR code below to access the application code and documentation:
 
 <p align="center">
-  <img src="./qr-code.png" width="200"/>
+  <img src="./qr-code.png" width="400"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Scan the QR code below to access the application code and documentation:
 Click below to watch the full working demo of the project:
 
 <p align="center">
-  <a href="https://indo-korean-project-video.mp4">
+  <a href="./indo-korean-project-video.mp4">
   </a>
 </p>
 
