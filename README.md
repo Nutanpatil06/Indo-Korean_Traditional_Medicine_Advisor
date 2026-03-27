@@ -28,18 +28,6 @@ Scan the QR code below to access the application code and documentation:
 
 ---
 
-### 🎥 Watch Demo Video
-
-Click below to watch the full working demo of the project:
-
-<p align="center">
-  <a href="https://youtu.be/rHG0oJ_m8ag">
-    <img src="https://img.youtube.com/vi/rHG0oJ_m8ag/0.jpg" width="600"/>
-  </a>
-</p>
-
----
-
 ## 🎯 Why I Built This Project
 
 Traditional medicine is widely used, but:
